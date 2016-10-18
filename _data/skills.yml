@@ -1,17 +1,8 @@
-- name: Python
+- name: Machine Learning
   percentage: 85
 
-- name: HTML/CSS
+- name: Web Development (full stack)
   percentage: 65
 
 - name: Linux/Shell
   percentage: 75
-
-- name: jQuery
-  percentage: 70
-
-- name: AngularJS
-  percentage: 80
-
-- name: Ionic
-  percentage: 65
