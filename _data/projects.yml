@@ -1,11 +1,11 @@
 - name: 'HopeSearch'
   i18n: 'HopeSearch'
-  url: 'http://www.thehopealliance.org/home'
+  url: '/macsj200/HopeSearch'
   img: 'static/img/landing/hopesearch.jpeg'
   desc: 'HopeSearch is eyeglasses prescription search software used to distribute eyeglasses to people below the poverty line.'
 
 - name: 'OpenBrain'
   i18n: 'OpenBrain'
-  url: 'https://github.com/mlberkeley/openbrain'
+  url: '/mlberkeley/openbrain'
   img: 'static/img/landing/openbrain.png'
   desc: 'HopeSearch is eyeglasses prescription search software used to distribute eyeglasses to people below the poverty line.'
