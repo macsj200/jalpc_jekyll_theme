@@ -8,4 +8,4 @@
   i18n: 'OpenBrain'
   url: '/mlberkeley/openbrain'
   img: 'static/img/landing/openbrain.png'
-  desc: 'HopeSearch is eyeglasses prescription search software used to distribute eyeglasses to people below the poverty line.'
+  desc: 'Massive asynchronous neurocomputation for reinforcement learning'
